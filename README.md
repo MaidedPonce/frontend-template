@@ -24,7 +24,7 @@ This is an event template that will help us take it as a basis.
 
 ### Installation
 
-`git clone git@github.com:we-book/tammy-template.git`
+`https://github.com/MaidedPonce/frontend-template`
 
 `yarn add
 `
